@@ -57,6 +57,7 @@ For testing purposes, you can use the following default credentials
 
 ## Project Structure
 
+```text
 src/
 ├── api/             # Axios instance & configuration
 ├── components/      # Shared UI components across the pages
@@ -65,3 +66,4 @@ src/
 ├── store/           # Redux state slices
 ├── types/           # TypeScript interfaces
 └── App.tsx          # Main routing & application entry
+
